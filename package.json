@@ -1,0 +1,29 @@
+{
+  "name": "osa-omnifocus",
+  "version": "0.0.0",
+  "description": "A module to interact with OmniFocus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/osa-omnifocus.git"
+  },
+  "keywords": [
+    "osa",
+    "omnifocus",
+    "osx",
+    "yosemite",
+    "jxa"
+  ],
+  "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/osa-omnifocus/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/osa-omnifocus",
+  "dependencies": {
+    "osa": "^2.1.0"
+  }
+}
